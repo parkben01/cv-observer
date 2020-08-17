@@ -15,7 +15,7 @@ You will need Node.js
 ## Running the application
 
 $ npm start
-(This will run on port 3001)
+1. Navigate in the browser to localhost:3001
 
 ## Requirements
 
